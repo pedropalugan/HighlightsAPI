@@ -26,3 +26,8 @@ Deve-se pesquisar um nome de um time e, caso tenha-se o mesmo na API, o pograma 
 
 ![image](https://user-images.githubusercontent.com/88800549/156861681-db1fe55c-4d93-4e80-b0f2-2351ba1f88bd.png)
 
+<hr>
+
+<h3>Tecnologia Utilizada</h3>
+
+HTML, CSS, JAVASCRIPT
