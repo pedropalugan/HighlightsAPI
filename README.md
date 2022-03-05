@@ -54,7 +54,7 @@ It should search the desired team name and, in case this team is on the API, the
 
 <hr>
 
-<h3>Resultado</h3>
+<h3>Result</h3>
 
 ![image](https://user-images.githubusercontent.com/88800549/156861661-8a06944c-8507-44b9-b3fb-0cbc46632bd7.png)
 
@@ -63,6 +63,11 @@ It should search the desired team name and, in case this team is on the API, the
 
 <hr>
 
-<h3>Tecnologia Utilizada</h3>
+<h3>Technology Used</h3>
 
 HTML, CSS, JAVASCRIPT
+
+
+# Autor / Author
+
+Pedro Palugan
