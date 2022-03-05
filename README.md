@@ -39,6 +39,10 @@ https://pedropalugan.github.io/HighlightsAPI/
 HTML, CSS, JAVASCRIPT
 
 <hr>
+<br>
+<br>
+<br>
+<br>
 
 
 <h2>English</h2>
