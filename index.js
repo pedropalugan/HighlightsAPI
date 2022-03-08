@@ -1,8 +1,9 @@
 let game;
-let x = 0;
 const verificarTime = () => {
+    let x = 0;
     let team = document.getElementById("team").value;
     let div = document.getElementById("thumb");
+    div.innerHTML = `<div></div>`
     fetch("https://free-football-soccer-videos1.p.rapidapi.com/v1/", {
         "method": "GET",
         "headers": {
@@ -20,6 +21,9 @@ const verificarTime = () => {
                         x++
                     }
                 }
+            }
+            if (x == 0){
+                alert("Não foi possível encontrar esse time em nosso banco de dados")
             }
         })
 }
