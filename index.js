@@ -13,6 +13,7 @@ const verificarTime = () => {
     })
         .then(Response => Response.json())
         .then((success) => {
+            console.log(success)
             for (let game = 0; game < success.length; game++) {
                 if (team == success[game]['side1']['name'] || team == success[game]['side2']['name']) {
                     div.innerHTML = success[game]['videos'][0]['embed']
